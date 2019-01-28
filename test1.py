@@ -2,12 +2,12 @@
 ## Modify the variables so that all of the statements evaluate to True. ##
 ##########################################################################
 
-var1 =
-var6 =
-var2 =
-var3 =
-var4 =
-var5 =
+var1 = 25
+var6 = 25.0
+var2 = "queen"
+var3 = [1,2,3,4,5]
+var4 = (1,2,"Hello, we are playing with Python!")
+var5 = {'happy' : 7, 'egg' : 'salad', 'tuna' : 'fish'}
 
 ############################################
 ## Don't edit anything below this comment ##
