@@ -2,8 +2,8 @@
 ## Modify the variables so that all of the statements evaluate to True. ##
 ##########################################################################
 
-var1 =
-var6 =
+var1 = 25
+var6 = 25.0
 var2 =
 var3 =
 var4 =
